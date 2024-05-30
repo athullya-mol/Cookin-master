@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062690026148",
+    "project_id": "cookup-2e95a",
+    "storage_bucket": "cookup-2e95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062690026148:android:c04dcdcd816ff03aebec31",
+        "android_client_info": {
+          "package_name": "com.example.cookup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqZ-N4f4epIRenut6lrfxYmwi-VRjxXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

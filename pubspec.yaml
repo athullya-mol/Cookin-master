@@ -1,0 +1,46 @@
+name: cookin
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  auto_size_text: ^3.0.0
+  autoscale_tabbarview: ^1.0.2
+  cached_network_image: ^3.2.2
+  carousel_slider: ^4.0.0
+  cloud_firestore: ^4.17.2
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^1.0.3
+  dev_icons: ^1.0.0
+  firebase_auth: ^4.19.5
+  firebase_core: ^2.31.0
+  firebase_storage: ^11.7.4
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.1.0
+  google_generative_ai: ^0.4.0
+  http: ^1.1.0
+  image_picker: ^1.1.1
+  provider: ^6.1.2
+  quickalert: ^1.1.0
+  responsive_sizer: ^3.2.0
+  shared_preferences: ^2.2.3
+  shimmer: ^2.0.0
+  solar_icons: null
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/
+  #   - images/a_dot_ham.jpeg
